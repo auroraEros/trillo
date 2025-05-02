@@ -1,4 +1,3 @@
-
 ````markdown
 # 🏨 Trillo — Your All-in-One Booking App
 
@@ -15,7 +14,7 @@ Trillo is a responsive, modern hotel booking landing page template built with **
 
 ## 📸 Preview
 
-![Trillo Screenshot](./img/screenshot.png)
+![Trillo Screenshot](https://raw.githubusercontent.com/auroraEros/trillo/refs/heads/main/img/screenshot.png)
 
 ## 🛠 Technologies Used
 
@@ -32,6 +31,7 @@ Trillo is a responsive, modern hotel booking landing page template built with **
    ```bash
    git clone https://github.com/your-username/trillo.git
    cd trillo
+   ```
 ````
 
 2. **Install dependencies**
@@ -48,8 +48,8 @@ Trillo is a responsive, modern hotel booking landing page template built with **
 
    This will:
 
-   * Compile SCSS to CSS in watch mode
-   * Launch Live Server for hot-reloading
+   - Compile SCSS to CSS in watch mode
+   - Launch Live Server for hot-reloading
 
 ## 🛠 Available Scripts
 
@@ -84,15 +84,15 @@ trillo/
 ### 📌 Live Demo
 
 ## Demo
-You can view the live demo of the project here:  
-[Trillo - Netlify](https://aurora-trillio-app.netlify.app/)
 
+You can view the live demo of the project here:  
+[Trillo - Netlify](https://aurora-trillo.netlify.app/)
 
 ## 📸 Credits
 
-* Icons from [iconmonstr.com](https://iconmonstr.com)
-* Fonts from [Google Fonts](https://fonts.google.com/)
-* Design inspired by Jonas Schmedtmann’s Advanced CSS course
+- Icons from [iconmonstr.com](https://iconmonstr.com)
+- Fonts from [Google Fonts](https://fonts.google.com/)
+- Design inspired by Jonas Schmedtmann’s Advanced CSS course
 
 ## 📄 License
 
