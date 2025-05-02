@@ -1,38 +1,44 @@
-````markdown
 # 🏨 Trillo — Your All-in-One Booking App
 
-Trillo is a responsive, modern hotel booking landing page template built with **HTML**, **SCSS**, and **JavaScript**. It's a frontend-only project designed to showcase layout techniques using **Flexbox**, **Grid**, and modular SCSS architecture.
+**Trillo** is a modern, responsive hotel booking landing page built with **HTML**, **SCSS**, and **JavaScript**. This frontend-only project is a showcase of advanced layout techniques using **Flexbox**, **CSS Grid**, and a modular **SCSS architecture**.
+
+---
 
 ## 🚀 Features
 
-- Hotel search interface
+- Responsive hotel search interface
 - Navigation bar with interactive icons
-- Gallery of hotel images
-- Hotel description and amenities
-- User reviews section
+- Image gallery with grid layout
+- Hotel description with amenities
+- Customer reviews section
 - Booking call-to-action (CTA)
+
+---
 
 ## 📸 Preview
 
-![Trillo Screenshot](https://raw.githubusercontent.com/auroraEros/trillo/refs/heads/main/img/screenshot.png)
+![Trillo Screenshot](./img/screenshot.png)
+
+---
 
 ## 🛠 Technologies Used
 
 - HTML5
-- SCSS (compiled via `node-sass`)
+- SCSS (compiled with Dart Sass)
 - PostCSS + Autoprefixer
+- npm-run-all (task automation)
 - Live Server (for development)
-- npm-run-all (task management)
 
-## 📦 Installation
+---
 
-1. **Clone the repo**
+## 📦 Getting Started
 
-   ```bash
-   git clone https://github.com/your-username/trillo.git
-   cd trillo
-   ```
-````
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/trillo.git
+cd trillo
+```
 
 2. **Install dependencies**
 
